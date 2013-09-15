@@ -1,1 +1,20 @@
 记录对github的学习
+1、初始化git配置
+git config --global user.name "zhxfl"
+git config --global user.email "291221622@qq.com"
+
+2、创建一个新项目
+现在网站上创建一个reponsitory
+在工程的目录下，输入如下命令
+git init
+git add [filname]
+git commit -m 'describe'
+git log
+
+3、上传工程到github
+git remote rm origin
+git remote add origin git@github.com:zhxfl/XXX.git
+git push -u origin master
+
+4、下载一个工程
+git clone git@github.com:zhxfl/xxx.git

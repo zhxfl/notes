@@ -20,5 +20,7 @@ git push -u origin master
 git clone git@github.com:zhxfl/xxx.git
 
 5、不同版本代码比较
+git log 查看commit id
+git diff commit_id_1 commit_id_2
 
 

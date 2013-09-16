@@ -1,0 +1,13 @@
+note by zhxfl
+================================================================================================================
+1  Parallel data mining on graphics processors 2008 (65)
+   
+   1) our k-means algorithm utilizes the bitmap-basedcomputation for the efficiency of SIMD execution, exploits the local memory optimization for tmpporal locality, and minimizes the data transfer between the main memory and th GPU memory.
+   2) data mining visualization.
+   3) Since both the mining and the visualization com-ponents mostly run on the GPU, the data transfer between the two components is small.
+   4) The bitmap k-means well utilizes GPU computation resources and minimizes the GPU-CPU data transfer.
+   5) 挖掘关联规则中Apriori算法的研究
+   6) code https://code.google.com/p/gpuminer/  windows vs2005
+
+=================================================================================================================
+

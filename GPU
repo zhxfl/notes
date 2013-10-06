@@ -1,0 +1,20 @@
+
+PageViewRank
+CPU = 18.75
+GPU = 45.529
+
+InvertIndex
+CPU = 1.97
+GPU = 11.031
+
+MaxtrixMul
+CPU = 98.76
+GPU = 0.352146
+
+PageViewCount
+CPU = 5.4300
+GPU = 27.200231
+
+WordCount
+CPU = 3.29000
+GPU = 15.915.122
